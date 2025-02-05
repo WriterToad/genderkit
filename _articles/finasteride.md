@@ -16,13 +16,22 @@ Finasteride does not remove the risk of pregnancy {% cite fsrh2017contraceptive 
 {% endcapture %}
 {% include warning warning=warn %}
 
-Finasteride use has been linked to liver problems and depression {% cite seal:2007 -l 174 %}. It is not normally prescribed to anyone at risk of pregnancy due to potential effects on unborn children {% cite finasteride %}.
+{% capture warn %}
+Finasteride has been linked to depression, suicidal thoughts, and sexual side effects {% cite mhrafinasteride %}. In some cases, sexual side effects continue after treatment has ended. 
+{% endcapture %}
+{% include warning warning=warn %}
+
+Finasteride use has been linked to liver problems {% cite seal:2007 -l 174 %}. It is not normally prescribed to anyone at risk of pregnancy due to potential effects on unborn children {% cite finasteride %}.
 
 ### Why might I want finasteride?
 
 Finasteride is used to treat hair loss caused by testosterone. 
 
 It can also be used to reduce body hair and slow facial hair growth {% cite seal2017 -l 236 %}.
+
+### Why might I not want finasteride?
+
+Finasteride can have side effects, some of which can be serious. It is also 
 
 ### Are there other options?
 
